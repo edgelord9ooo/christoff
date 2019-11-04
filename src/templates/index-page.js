@@ -17,8 +17,6 @@ export const IndexPageTemplate = ({
 }) => (
   <div className='isIndex'>
     <p>
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     </p>
     {/* <div
       className="full-width-image margin-top-0"
