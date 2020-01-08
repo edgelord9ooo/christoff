@@ -4,7 +4,7 @@ import cloudinary from 'netlify-cms-media-library-cloudinary'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
-import EmploymentPagePreview from './preview-templates/EmploymentPageReview'
+import EmploymentPagePreview from './preview-templates/EmploymentPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 import ContactPagePreview from './preview-templates/ContactPagePreview'
 
