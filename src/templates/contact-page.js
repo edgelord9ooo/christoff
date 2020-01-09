@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import facebook from '../img/social/facebook.svg'
 
 export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -18,6 +19,13 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
                   {title}
                 </h2>
                 <PageContent className="content" content={content} />
+                <a title="facebook" href="https://www.facebook.com/All-Stars-Silviculture-Ltd-709280062785248/" target="_blank">
+                <img
+                  src={facebook}
+                  alt="Facebook"
+                  style={{ width: '2vw', height: '2vw' }}
+                  />
+                </a>
               </div>
             </div>
           </div>
