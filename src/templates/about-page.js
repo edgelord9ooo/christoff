@@ -24,7 +24,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         </div>
       </section>
     </div>
-
   )
 }
 
