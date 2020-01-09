@@ -31,7 +31,7 @@ export const EmploymentPageTemplate = ({
 }
 
 const EmploymentPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { markdownRemark: post } = data
 
   return (
     <Layout>
