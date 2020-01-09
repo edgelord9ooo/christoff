@@ -10,7 +10,7 @@ Brushing and slash burning continues into December. Positions are available for 
 
 to June), summer plant (July) and brushing seasons, or a combination thereof. 
 
-### To apply, please send a resume to allstarssilviculture@gmail.com
+### To apply, please send a resume to  <allstarssilviculture@gmail.com>
 
 <br/>
 
