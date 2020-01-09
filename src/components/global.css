@@ -11,3 +11,14 @@ html, body {
 .navbar {
     background-color: transparent !important;
 }
+
+.landing {
+    text-align: center;
+    font-size: 2.0vw;
+    margin: 3vw;
+    font-weight: bold;
+}
+
+.buttonLanding {
+    text-align: center;
+}
