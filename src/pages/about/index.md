@@ -7,7 +7,7 @@ All-Stars Silviculture is a small company with a big portfolio. Our clientele in
 Our tree planting season starts mid-April and continues until late-July. Brushing starts in June and finish late-October. Slash burning extends into December. In total we offer the option of 6-8 months of
 continuous work.
 
-![](/img/chrisplanter.jpg)
+![a treeplanter](/img/chrisplanter.jpg)
 
 Work locations vary from year to year but mostly we operate in and around Kelowna, Lumby, Salmon
 Arm, Kamloops and Revelstoke.
