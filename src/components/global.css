@@ -22,3 +22,8 @@ html, body {
 .buttonLanding {
     text-align: center;
 }
+
+.landingSpan {
+  background-color: rgb(212, 212, 212);
+  padding: 0.5vw;
+}

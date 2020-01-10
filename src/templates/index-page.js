@@ -10,12 +10,16 @@ export const IndexPageTemplate = ({
   <div className='isIndex'>
     <div className='row'>
       <div>
-        <p class='landing'>Tree planting and brushing in BC’s Southern Interior</p>
+        <p class='landing'>
+          <span class='landingSpan'>Tree planting and brushing in BC’s Southern Interior</span>
+        </p>
       </div>
     </div>
     <div className='row'>
       <div>
-        <p class='landing'>Contracting since 2005. Based in Enderby, BC.</p>
+        <p class='landing'>
+          <span class='landingSpan'>Contracting since 2005. Based in Enderby, BC.</span>
+        </p>
       </div>
     </div>
     <div className='row'>
