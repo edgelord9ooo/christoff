@@ -9,7 +9,6 @@ module.exports = {
       and Slash burning. We offer competitive prices and are always looking to hire the best \
       to join our team of all stars',
     url: "https://www.allstarssilviculture.ca", // No trailing slash allowed!
-    image: "/static/img/ogImage.png",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
