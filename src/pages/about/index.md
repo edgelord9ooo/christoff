@@ -18,9 +18,6 @@ beaches and swimming of Shuswap Lake are often just a short walk away. Delicious
 and a fun, comfortable atmosphere enable our employees to maximize their earnings. Motels, when
 used, are provided at no cost.
 
-Prices and terrain vary with each contract but in general our ground is in the mid-to-upper range of the
-difficulty scale. Tree prices are 16c+, but average typically in the 22-24c range.
+Prices and terrain vary with each contract but our minimum base price is 16c/tree and our average is approximately 23c/tree.
 
-All-Stars Silviculture is a member of the Western Forestry Contractors Association and is SAFE Certified.
-We financially support local charities including BC Children’s Hospital, Kelowna Women’s Shelter, and
-Doctors Without Borders
+All-Stars Silviculture Ltd is based in Enderby, BC, has been in business since 2005 and has planted over 15 million seedlings in that time.
