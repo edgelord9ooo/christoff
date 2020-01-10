@@ -2,9 +2,14 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'All-Stars Silviculture',
+    title: 'All Stars Silviculture',
     description:
-      'description for all stars',
+      'All Stars Silviculture is a Canadian forestry company based out of \
+      Enderby, BC, providing a number of services including Treeplanting, Brushing, \
+      and Slash burning. We offer competitive prices and are always looking to hire the best \
+      to join our team of all stars',
+    url: "https://www.allstarssilviculture.ca", // No trailing slash allowed!
+    image: "/static/img/ogImage.png",
   },
   plugins: [
     'gatsby-plugin-react-helmet',

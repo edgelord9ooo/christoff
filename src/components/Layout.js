@@ -7,17 +7,13 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata()
+  const { title, description, url } = useSiteMetadata()
   return (
     <div className='bg'>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
-        <meta name="All Stars Silviculture is a Canadian forestry company based out of 
-        Enderby, BC, providing a number of services including Treeplanting, Brushing,
-        and Slash burning. We offer competitive prices and are always looking to hire the best 
-        to join our team of all stars" content={description} />
-
+        <meta name="description" content={description} />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -44,7 +40,7 @@ const TemplateWrapper = ({ children }) => {
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content={url} />
         <meta property="og:image" content="/img/ogImage.png" />
       </Helmet>
 
