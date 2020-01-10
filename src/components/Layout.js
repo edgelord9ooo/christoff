@@ -13,7 +13,10 @@ const TemplateWrapper = ({ children }) => {
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
-        <meta name="description" content={description} />
+        <meta name="All Stars Silviculture is a Canadian forestry company based out of 
+        Enderby, BC, providing a number of services including Treeplanting, Brushing,
+        and Slash burning. We offer competitive prices and are always looking to hire the best 
+        to join our team of all stars" content={description} />
 
         <link
           rel="apple-touch-icon"
