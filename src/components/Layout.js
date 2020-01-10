@@ -7,7 +7,7 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description, url } = useSiteMetadata()
+  const { title, description } = useSiteMetadata()
   return (
     <div className='bg'>
       <Helmet>
@@ -40,7 +40,7 @@ const TemplateWrapper = ({ children }) => {
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content={url} />
+        <meta property="og:url" content="https://www.allstarssilviculture.ca" />
         <meta property="og:image" content="/img/ogImage.png" />
       </Helmet>
 
