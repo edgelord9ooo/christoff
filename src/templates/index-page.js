@@ -15,13 +15,13 @@ export const IndexPageTemplate = ({
         </p>
       </div>
     </div>
-    <div className='row'>
+    {/* <div className='row'>
       <div>
         <p class='landing'>
           <span class='landingSpan'>Contracting since 2005. Based in Enderby, BC.</span>
         </p>
       </div>
-    </div>
+    </div> */}
     <div className='row'>
       <div class='buttonLanding'>
         <Link to="/employment">
